@@ -1,4 +1,5 @@
-class java{
-  public ststic void main (String args()){
-    System.out.println("welcome");
-  }}
+
+class test {
+    public static void main(String[] args) {
+        System.out.println("hello world");
+    }}
